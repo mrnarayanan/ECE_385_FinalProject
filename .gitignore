@@ -1,0 +1,13 @@
+*.sv.bak
+*.qpf
+*.qsf
+*.qsf.bak
+*.qws
+db\
+incremental_db\
+.metadata\
+.qsys_edit\
+RemoteSystemsTempFiles\
+simulation\
+nios_system\
+output_files\
